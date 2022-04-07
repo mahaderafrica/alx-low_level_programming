@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- *
- * Return: 0 after printing the function
+ * main - prints a phrase
+ * Return: 0
  */
 int main(void)
 {
