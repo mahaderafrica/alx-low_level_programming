@@ -2,16 +2,10 @@
 
 /**
  * main - main block
- *
  * Return: 0
  */
 int main(void)
 {
-int a;
-long int b;
-long long int c;
-char d;
-float f;
 
 printf("Size of a char: %d byte(s)\n", sizeof(char));
 printf("size of an int: %d byte(s)\n", sizeof(int));
