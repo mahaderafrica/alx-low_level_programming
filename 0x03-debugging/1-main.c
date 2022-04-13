@@ -2,7 +2,8 @@
 /**
  * main - causes an infinite loop
  *
-
+ * Return: 0
+ */
 int main(void)
 {
 int i;
@@ -19,5 +20,5 @@ i = 0;
 }
 */
 printf("Infinite loop avoided! \\0/\n");
-[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A * Return: 0[B[B[B[B[B[B[B[B[B[B[B[B[Breturn ()[D0);
+return (0);
 }
